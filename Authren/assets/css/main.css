@@ -2055,7 +2055,10 @@ input, select, textarea {
 				.icon.featured.alt2:after {
 					border-top-color: #827a7c;
 				}
-
+#downloadIcon{
+		cursor: pointer;
+   
+}
 /* Page Wrapper */
 
 	#page-wrapper > section {
@@ -2120,6 +2123,9 @@ input, select, textarea {
 					background: #d52349;
 					color: #fff !important;
 					font-weight: 700;
+				}
+				#selectedItem{
+					background: #df395d81;
 				}
 
 	.dropotron {
